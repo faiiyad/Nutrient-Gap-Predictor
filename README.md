@@ -2,7 +2,7 @@
 ![banner](https://raw.githubusercontent.com/faiiyad/Nutrient-Gap-Predictor/refs/heads/main/images/Banner_amini.png)
 
 Predicts nutrient gaps for maize crops across Africa, contributing to solutions promoting sustainable agriculture and precision soil management.
-Submitted for the <a href='https://zindi.africa/competitions/amini-soil-prediction-challenge'>Amini Soil Prediction Challenge.</a>
+Submitted for the <a href='https://zindi.africa/competitions/amini-soil-prediction-challenge'>Amini Soil Prediction Challenge</a>.
 
 ## How it works:
 ### Model selection:
